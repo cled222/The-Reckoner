@@ -1,6 +1,3 @@
-#Name: Caiden Ledet
-#Date:2/3/23
-#Description: The Reckoner Calculator
 
 from tkinter import *
 from final_button_data import button_data
